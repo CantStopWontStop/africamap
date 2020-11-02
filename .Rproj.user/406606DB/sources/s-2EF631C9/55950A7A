@@ -1,0 +1,25 @@
+{
+    "id": "55950A7A",
+    "path": null,
+    "project_path": null,
+    "type": "object_explorer",
+    "hash": "0",
+    "contents": "",
+    "dirty": false,
+    "created": 1604289498980.0,
+    "source_on_save": false,
+    "relative_order": 2,
+    "properties": {
+        "id": "80e8df553b11498fb7db75ccccb08b3f",
+        "name": "africa_topojson",
+        "title": "africa_topojson"
+    },
+    "folds": "",
+    "lastKnownWriteTime": 3905796466961113901,
+    "encoding": "",
+    "collab_server": "",
+    "source_window": "",
+    "last_content_update": 1604289498980,
+    "read_only": false,
+    "read_only_alternatives": []
+}

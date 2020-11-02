@@ -1,0 +1,32 @@
+{
+    "id": "49D213B5",
+    "path": null,
+    "project_path": null,
+    "type": "r_dataframe",
+    "hash": "0",
+    "contents": "",
+    "dirty": false,
+    "created": 1604289967658.0,
+    "source_on_save": false,
+    "relative_order": 4,
+    "properties": {
+        "expression": "africa_properties",
+        "caption": "africa_properties",
+        "totalObservations": "67",
+        "displayedObservations": "67",
+        "variables": "63",
+        "cacheKey": "09A4F681",
+        "object": "africa_properties",
+        "environment": "",
+        "contentUrl": "grid_resource/gridviewer.html?env=&obj=africa_properties&cache_key=09A4F681&max_cols=50",
+        "preview": "0"
+    },
+    "folds": "",
+    "lastKnownWriteTime": 3546919169435184689,
+    "encoding": "",
+    "collab_server": "",
+    "source_window": "",
+    "last_content_update": 1604289967658,
+    "read_only": false,
+    "read_only_alternatives": []
+}
